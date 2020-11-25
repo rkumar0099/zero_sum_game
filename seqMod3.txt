@@ -1,0 +1,9 @@
+1.	ExpectedEarnings: 0.666667	 Seq: -1 -1 1
+2.	ExpectedEarnings: 0.333333	 Seq: -1 1 0
+3.	ExpectedEarnings: 0.666667	 Seq: -1 1 1
+4.	ExpectedEarnings: 0.666667	 Seq: 0 0 -1
+5.	ExpectedEarnings: 0.666667	 Seq: 0 -1 -1
+6.	ExpectedEarnings: 0.333333	 Seq: 0 -1 1
+7.	ExpectedEarnings: 0.666667	 Seq: 1 1 0
+8.	ExpectedEarnings: 0.333333	 Seq: 1 0 -1
+9.	ExpectedEarnings: 0.666667	 Seq: 1 0 0
