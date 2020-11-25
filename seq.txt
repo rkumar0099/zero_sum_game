@@ -1,9 +1,0 @@
-seq: -1 -1 1	expected-earnings: -0.666667
-seq: -1 1 0	expected-earnings: -0.333333
-seq: -1 1 1	expected-earnings: -0.666667
-seq: 0 0 -1	expected-earnings: -0.666667
-seq: 0 -1 -1	expected-earnings: -0.666667
-seq: 0 -1 1	expected-earnings: -0.333333
-seq: 1 1 0	expected-earnings: -0.666667
-seq: 1 0 -1	expected-earnings: -0.333333
-seq: 1 0 0	expected-earnings: -0.666667
